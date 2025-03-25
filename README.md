@@ -74,11 +74,11 @@ cd ai-foundry-demos-infra
       - `BING_CONNECTION_NAME`: Your Bing search connection name
       - `SERVERLESS_MODEL_NAME`: Your serverless model name
 
-```
+
 > **Note**: The model specified in `MODEL_DEPLOYMENT_NAME` must be supported by Azure AI Agents Service or Assistants API.
 See [supported models](https://learn.microsoft.com/en-us/azure/ai-services/agents/concepts/model-region-support?tabs=python#azure-openai-models) for details.
 For Grounding with Bing Search, you need to use `gpt-4o` model.
-```
+
 
 ### Usage
 
